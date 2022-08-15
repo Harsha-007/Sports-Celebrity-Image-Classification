@@ -8,7 +8,6 @@ In this Machine Learning project sports celebrities are being classified using O
 ---Lionel Messi
 
 The 'model' folder contains python notebook of the ML model.
-The 'images_dataset' contains dataset used for our model training.
 
 Technologies used in this project,
 1. Python
