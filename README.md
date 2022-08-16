@@ -2,9 +2,13 @@
 
 In this Machine Learning project sports celebrities are being classified using OpenCV. The classification has been restricted to only five people,
 ---Maria Sharapova
+
 ---Serena Williams
+
 ---Virat Kohli
+
 ---Roger Federer
+
 ---Lionel Messi
 
 The 'model' folder contains python notebook of the ML model.
